@@ -94,7 +94,7 @@
 			<fileset dir="${docs-dir}/api" includes="*.*" />
 		</delete>
 		
-		<javadoc packagenames="com.luckycatlabs.sunrisesunset.*"
+		<javadoc packagenames="com.borconi.sunrisesunset.*"
 			defaultexcludes="yes"
 			destdir="${docs-dir}/api"
 			version="true"
